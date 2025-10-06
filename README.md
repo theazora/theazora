@@ -139,5 +139,3 @@ I’m currently pursuing advanced studies in **Graphic Information Technology** 
   <img src="https://img.shields.io/badge/Made%20with%20%E2%99%A5%EF%B8%8F%20by-TheaZora-ff69b4">
 </p>
 ---
-
-> “Technology and creativity aren’t opposites—they’re languages that, when intertwined, tell the most human stories.”
