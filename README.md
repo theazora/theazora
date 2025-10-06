@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20%E2%99%A5%EF%B8%8F%20by-TheaZora-ff69b4">
-</p>
-
 # 👋🏽 Hey, I’m TheaZora  
 **Creative Technologist | Full-Stack Engineer | Change Management & UX Architect**
 
@@ -134,6 +130,10 @@ I’m currently pursuing advanced studies in **Graphic Information Technology** 
   <a href="https://www.linkedin.com/in/tbalzora/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-@tbalzora-0077B5?style=flat-square&logo=linkedin" />
   </a>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with%20%E2%99%A5%EF%B8%8F%20by-TheaZora-ff69b4">
+</p>
   <a href="https://theazora.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-theazora.dev-ff69b4?style=flat-square&logo=vercel&logoColor=white" />
   </a>
