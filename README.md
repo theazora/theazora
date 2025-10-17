@@ -49,6 +49,7 @@ I’m currently pursuing advanced studies in **Graphic Information Technology** 
 > **Stack:** Vue.js · TensorFlow.js · Web Audio API · TailwindCSS
 
 [🔗 Visit PianoNet.io](https://pianonet.io)
+
 ---
 
 ### **My vault: wulfie.dev**  
