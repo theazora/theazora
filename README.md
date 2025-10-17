@@ -46,9 +46,9 @@ I’m currently pursuing advanced studies in **Graphic Information Technology** 
 ### **OpalVox.space**  
 *Shape the Voice of Tomorrow*  
 > An ML-driven vocal modulation platform combining DSP, deep learning, and artistry to expand the expressive range of human voice.  
-> **Stack:** Vue.js · TensorFlow.js · Web Audio API · TailwindCSS  
+> **Stack:** Vue.js · TensorFlow.js · Web Audio API · TailwindCSS
 
-[🔗 Visit Opalvox.space](https://opalvox.space)
+[🔗 Visit PianoNet.io](https://pianonet.io)
 ---
 
 ### **My vault: wulfie.dev**  
