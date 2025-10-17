@@ -6,9 +6,7 @@
 ## 🌐 About Me
 
 I’m **Thea Zora**, a multidisciplinary designer and engineer blending **technology, art, and systems thinking**.  
-With over a decade of experience in **Change & Configuration Management**, **Full-Stack Development**, and **Creative Technology**, I build immersive, accessible, and emotionally resonant digital systems, from enterprise ITSM portals to interactive sound experiences.
-
-I’m currently pursuing advanced studies in **Graphic Information Technology** at **Arizona State University**, while leading several digital ventures that merge design, automation, and human-centered storytelling.
+With over a decade of experience in **Change & Configuration Management**, **Full-Stack Development**, and **Creative Technology**, I build immersive, accessible, and emotionally resonant digital systems, from enterprise IT portals to interactive sound experiences.
 
 🕸️ Explore my portfolio: **[theazora.dev](https://theazora.dev)**
 
