@@ -45,7 +45,7 @@ I’m currently pursuing advanced studies in **Graphic Information Technology** 
 
 ### **OpalVox.space**  
 *Shape the Voice of Tomorrow (https://opalvox.space))*  
-> An AI-driven vocal modulation platform combining DSP, deep learning, and artistry to expand the expressive range of human voice.  
+> An ML-driven vocal modulation platform combining DSP, deep learning, and artistry to expand the expressive range of human voice.  
 > **Stack:** Vue.js · TensorFlow.js · Web Audio API · TailwindCSS  
 
 ---
