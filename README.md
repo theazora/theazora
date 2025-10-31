@@ -21,7 +21,7 @@ h3:hover {
 </style>
 
 <!-- Terminal-style header with ASCII art -->
-<pre style="color: #ff69b4; background: #0d1117; padding: 20px; border-radius: 10px; border: 2px solid #ff69b4; font-family: monospace; font-size: clamp(8px, 2vw, 11px); line-height: 1.2; max-width: 100%; overflow-x: auto; white-space: pre;">
+<pre>
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║                                                                          ║
 ║    ████████╗██╗  ██╗███████╗ █████╗ ███████╗ ██████╗  ██████╗  █████╗    ║
@@ -39,7 +39,9 @@ h3:hover {
 
 **Creative Technologist | Full-Stack Engineer | Change Management & UX Architect**
 
-<img src="https://theazora.dev/Horizontal_Logo_TheaZora.svg" alt="TheaZora Logo" style="max-width: 100%; height: auto; display: block; margin: 20px auto;">
+<a href="https://theazora.dev" target="_blank">
+<img src="https://theazora.dev/Horizontal_Logo_TheaZora.svg" alt="TheaZora Logo" style="max-width: 100%; height: auto; display: block; margin: 20px auto; filter: hue-rotate(0deg); transition: filter 0.3s ease;" onmouseover="this.style.filter='hue-rotate(330deg) brightness(1.2)'" onmouseout="this.style.filter='hue-rotate(0deg)'">
+</a>
 
 <!-- Terminal status -->
 <pre style="font-family: 'Courier New', monospace; color: #00ff00; font-size: 14px; margin: 10px 0;">
