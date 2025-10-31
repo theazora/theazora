@@ -1,30 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 200" width="100%" height="auto">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 200" preserveAspectRatio="xMidYMid meet" width="100%" height="auto">
     <style>
-        .ascii-art {
-            font-family: 'Courier New', monospace;
-            font-size: 10px;
-            line-height: 1.2;
-            fill: #ff69b4;
-        }
         .bg-box {
             fill: #0d1117;
             stroke: #ff69b4;
             stroke-width: 2;
-            rx: 10;
+        }
+        .ascii-line {
+            font-family: 'Courier New', monospace;
+            font-size: 10px;
+            fill: #ff69b4;
+            white-space: pre;
         }
     </style>
-    <rect class="bg-box" width="100%" height="100%"/>
-    <text class="ascii-art" x="50%" y="50%" text-anchor="middle" dominant-baseline="middle">
-        <tspan x="50%" dy="-70">╔══════════════════════════════════════════════════════════════════════════╗</tspan>
-        <tspan x="50%" dy="14">║                                                                          ║</tspan>
-        <tspan x="50%" dy="14">║    ████████╗██╗  ██╗███████╗ █████╗ ███████╗ ██████╗  ██████╗  █████╗    ║</tspan>
-        <tspan x="50%" dy="14">║    ╚══██╔══╝██║  ██║██╔════╝██╔══██╗╚══███╔╝██╔═══██╗ ██╔══██╗██╔══██╗   ║</tspan>
-        <tspan x="50%" dy="14">║       ██║   ███████║█████╗  ███████║  ███╔╝ ██║   ██║ ██████╔╝███████║   ║</tspan>
-        <tspan x="50%" dy="14">║       ██║   ██╔══██║██╔══╝  ██╔══██║ ███╔╝  ██║   ██║ ██╔══██╗██╔══██║   ║</tspan>
-        <tspan x="50%" dy="14">║       ██║   ██║  ██║███████╗██║  ██║███████╗╚██████╔╝ ██║  ██║██║  ██║   ║</tspan>
-        <tspan x="50%" dy="14">║       ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝ ╚═════╝  ╚═╝  ╚═╝╚═╝  ╚═╝   ║</tspan>
-        <tspan x="50%" dy="14">║                                                                          ║</tspan>
-        <tspan x="50%" dy="14">╚══════════════════════════════════════════════════════════════════════════╝</tspan>
-    </text>
+    <rect class="bg-box" x="0" y="0" width="640" height="200" rx="10"/>
+    <text class="ascii-line" x="20" y="25">╔══════════════════════════════════════════════════════════════════════════╗</text>
+    <text class="ascii-line" x="20" y="40">║                                                                          ║</text>
+    <text class="ascii-line" x="20" y="55">║    ████████╗██╗  ██╗███████╗ █████╗ ███████╗ ██████╗  ██████╗  █████╗    ║</text>
+    <text class="ascii-line" x="20" y="70">║    ╚══██╔══╝██║  ██║██╔════╝██╔══██╗╚══███╔╝██╔═══██╗ ██╔══██╗██╔══██╗   ║</text>
+    <text class="ascii-line" x="20" y="85">║       ██║   ███████║█████╗  ███████║  ███╔╝ ██║   ██║ ██████╔╝███████║   ║</text>
+    <text class="ascii-line" x="20" y="100">║       ██║   ██╔══██║██╔══╝  ██╔══██║ ███╔╝  ██║   ██║ ██╔══██╗██╔══██║   ║</text>
+    <text class="ascii-line" x="20" y="115">║       ██║   ██║  ██║███████╗██║  ██║███████╗╚██████╔╝ ██║  ██║██║  ██║   ║</text>
+    <text class="ascii-line" x="20" y="130">║       ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝ ╚═════╝  ╚═╝  ╚═╝╚═╝  ╚═╝   ║</text>
+    <text class="ascii-line" x="20" y="145">║                                                                          ║</text>
+    <text class="ascii-line" x="20" y="160">╚══════════════════════════════════════════════════════════════════════════╝</text>
 </svg>
-

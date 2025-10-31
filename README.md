@@ -4,10 +4,14 @@
 <!-- Terminal-style header with ASCII art -->
 <img src="./ascii-header.svg" alt="TheaZora ASCII Art" style="max-width: 100%; height: auto; display: block; margin: 20px 0;">
 
-### `> System initialized...`  
+### <span style="color: #00ff00;">`> System initialized...`</span>  
 ### > Hey, I'm TheaZora 👋🏽
 
 **Creative Technologist | Full-Stack Engineer | Change Management & UX Architect**
+
+<a href="https://theazora.dev" target="_blank">
+<img src="https://theazora.dev/Horizontal_Logo_TheaZora.svg" alt="TheaZora Logo" style="max-width: 400px; width: 50%; height: auto; display: block; margin: 20px auto; filter: brightness(0) saturate(100%) invert(57%) sepia(99%) saturate(3571%) hue-rotate(305deg) brightness(101%) contrast(101%);" onmouseover="this.style.filter='brightness(0) saturate(100%) invert(57%) sepia(99%) saturate(3571%) hue-rotate(305deg) brightness(1.3) contrast(101%)'" onmouseout="this.style.filter='brightness(0) saturate(100%) invert(57%) sepia(99%) saturate(3571%) hue-rotate(305deg) brightness(101%) contrast(101%)'">
+</a>
 
 <!-- Terminal status -->
 <img src="./terminal-status.svg" alt="Terminal Status" style="max-width: 100%; height: auto; margin: 10px 0;">
