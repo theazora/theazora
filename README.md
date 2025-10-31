@@ -4,17 +4,6 @@
   51%, 100% { opacity: 0; }
 }
 
-/* ASCII Art Animation - Subtle glow pulse */
-@keyframes asciiGlow {
-  0%, 100% { 
-    box-shadow: 0 0 10px rgba(255, 105, 180, 0.3), 0 0 20px rgba(255, 105, 180, 0.1);
-    border-color: #ff69b4;
-  }
-  50% { 
-    box-shadow: 0 0 20px rgba(255, 105, 180, 0.6), 0 0 40px rgba(255, 105, 180, 0.3);
-    border-color: #ff69b4;
-  }
-}
 
 /* Hover effects for badges */
 a img {
@@ -46,28 +35,27 @@ h3:hover {
   font-family: 'Courier New', monospace;
   font-size: 12px;
   line-height: 1.2;
-  color: #ff69b4;
   background: #0d1117;
   padding: 20px;
   border-radius: 10px;
   border: 2px solid #ff69b4;
   display: block;
   width: fit-content;
-  animation: asciiGlow 3s ease-in-out infinite;
   margin: 0 0 20px 0;
+  box-shadow: 0 0 15px rgba(255, 105, 180, 0.4), 0 0 30px rgba(255, 105, 180, 0.2);
 }
 </style>
 
-<!-- Terminal-style header with ASCII art -->
+<!-- Rainbow Terminal-style header with ASCII art -->
 <pre id="ascii-art">
-╔════════════════════════════════════════════════════════════════════════╗
-║  ████████╗██╗  ██╗███████╗ █████╗ ███████╗ ██████╗  ██████╗  █████╗    ║
-║  ╚══██╔══╝██║  ██║██╔════╝██╔══██╗╚══███╔╝██╔═══██╗ ██╔══██╗██╔══██╗   ║
-║     ██║   ███████║█████╗  ███████║  ███╔╝ ██║   ██║ ██████╔╝███████║   ║
-║     ██║   ██╔══██║██╔══╝  ██╔══██║ ███╔╝  ██║   ██║ ██╔══██╗██╔══██║   ║
-║     ██║   ██║  ██║███████╗██║  ██║███████╗╚██████╔╝ ██║  ██║██║  ██║   ║
-║     ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝ ╚═════╝  ╚═╝  ╚═╝╚═╝  ╚═╝   ║
-╚════════════════════════════════════════════════════════════════════════╝
+<span style="color: #ff0080;">╔════════════════════════════════════════════════════════════════════════╗</span>
+<span style="color: #ff0080;">║</span>  <span style="color: #ff0080;">████████╗</span><span style="color: #ff4000;">██╗</span>  <span style="color: #ff8000;">██╗</span><span style="color: #ffc000;">███████╗</span> <span style="color: #ffff00;">████╗</span> <span style="color: #c0ff00;">██████╗</span> <span style="color: #80ff00;">█████╗</span>  <span style="color: #40ff00;">█████╗</span>  <span style="color: #00ff00;">█████╗</span>    <span style="color: #ff0080;">║</span>
+<span style="color: #ff0080;">║</span>  <span style="color: #00ff40;">╚══██╔══╝</span><span style="color: #00ff80;">██║</span>  <span style="color: #00ffc0;">██║</span><span style="color: #00ffff;">██╔════╝</span><span style="color: #00c0ff;">██╔══██╗</span><span style="color: #0080ff;">╚══███╔╝</span><span style="color: #0040ff;">██╔═══██╗</span> <span style="color: #0000ff;">██╔══██╗</span><span style="color: #4000ff;">██╔══██╗</span>   <span style="color: #ff0080;">║</span>
+<span style="color: #ff0080;">║</span>     <span style="color: #8000ff;">██║</span>   <span style="color: #c000ff;">███████║</span><span style="color: #ff00ff;">█████╗</span>  <span style="color: #ff00c0;">███████║</span>  <span style="color: #ff0080;">███╔╝</span> <span style="color: #ff4000;">██║</span>   <span style="color: #ff8000;">██║</span> <span style="color: #ffc000;">█████╔╝</span><span style="color: #ffff00;">███████║</span>   <span style="color: #ff0080;">║</span>
+<span style="color: #ff0080;">║</span>     <span style="color: #c0ff00;">██║</span>   <span style="color: #80ff00;">██╔══██║</span><span style="color: #40ff00;">██╔══╝</span>  <span style="color: #00ff00;">██╔══██║</span> <span style="color: #00ff40;">███╔╝</span>  <span style="color: #00ff80;">██║</span>   <span style="color: #00ffc0;">██║</span> <span style="color: #00ffff;">██╔══██╗</span><span style="color: #00c0ff;">██╔══██║</span>   <span style="color: #ff0080;">║</span>
+<span style="color: #ff0080;">║</span>     <span style="color: #0080ff;">██║</span>   <span style="color: #0040ff;">██║</span>  <span style="color: #0000ff;">██║</span><span style="color: #4000ff;">███████╗</span><span style="color: #8000ff;">██║</span>  <span style="color: #c000ff;">██║</span><span style="color: #ff00ff;">███████╗</span><span style="color: #ff00c0;">╚██████╔╝</span> <span style="color: #ff0080;">██║</span>  <span style="color: #ff4000;">██║</span><span style="color: #ff8000;">██║</span>  <span style="color: #ffc000;">██║</span>   <span style="color: #ff0080;">║</span>
+<span style="color: #ff0080;">║</span>     <span style="color: #ffff00;">╚═╝</span>   <span style="color: #c0ff00;">╚═╝</span>  <span style="color: #80ff00;">╚═╝</span><span style="color: #40ff00;">╚══════╝</span><span style="color: #00ff00;">╚═╝</span>  <span style="color: #00ff40;">╚═╝</span><span style="color: #00ff80;">╚══════╝</span> <span style="color: #00ffc0;">╚═════╝</span>  <span style="color: #00ffff;">╚═╝</span>  <span style="color: #00c0ff;">╚═╝</span><span style="color: #0080ff;">╚═╝</span>  <span style="color: #0040ff;">╚═╝</span>   <span style="color: #ff0080;">║</span>
+<span style="color: #ff0080;">╚════════════════════════════════════════════════════════════════════════╝</span>
 </pre>
 
 ### `> System initialized...`  
