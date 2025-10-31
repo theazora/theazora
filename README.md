@@ -4,7 +4,7 @@
 <!-- Terminal-style header with ASCII art -->
 <img src="./ascii-header.svg" alt="TheaZora ASCII Art" style="max-width: 100%; height: auto; display: block; margin: 20px 0;">
 
-## <span> Hey, I'm <a href="https://theazora.dev" target="_blank"><img src="./theazora-wobble.gif" alt="TheaZora Logo" style="width: 120px; height: auto; margin: 0 8px;" onmouseover="this.style.transform='scale(1.1)'; this.style.filter='brightness(1.2)'" onmouseout="this.style.transform='scale(1)'; this.style.filter='none'"></a> 👋🏽</span>
+# <span> Hey, I'm <a href="https://theazora.dev" target="_blank"><img src="./theazora-wobble.gif" alt="TheaZora Logo" style="width: 120px; height: auto; margin: 0 8px;" onmouseover="this.style.transform='scale(1.1)'; this.style.filter='brightness(1.2)'" onmouseout="this.style.transform='scale(1)'; this.style.filter='none'"></a> 👋🏽</span>
 
 **Creative Technologist | Full-Stack Engineer | Change Management & UX Architect**
 
