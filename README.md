@@ -5,13 +5,9 @@
 <img src="./ascii-header.svg" alt="TheaZora ASCII Art" style="max-width: 100%; height: auto; display: block; margin: 20px 0;">
 
 ### <span style="color: #00ff00;">`> System initialized...`</span>  
-### > Hey, I'm TheaZora 👋🏽
+### > Hey, I'm <a href="https://theazora.dev" target="_blank"><img src="./logo.gif" alt="TheaZora Logo" style="width: 120px; height: auto; vertical-align: middle; display: inline-block; margin: 0 8px;" onmouseover="this.style.transform='scale(1.1)'; this.style.filter='brightness(1.2)'" onmouseout="this.style.transform='scale(1)'; this.style.filter='none'"></a> 👋🏽
 
 **Creative Technologist | Full-Stack Engineer | Change Management & UX Architect**
-
-<a href="https://theazora.dev" target="_blank">
-<img src="./logo.gif" alt="TheaZora Logo" style="max-width: 400px; width: 50%; height: auto; display: block; margin: 20px auto;" onmouseover="this.style.transform='scale(1.05)'; this.style.filter='brightness(1.2)'" onmouseout="this.style.transform='scale(1)'; this.style.filter='none'">
-</a>
 
 <!-- Terminal status -->
 <img src="./terminal-status.svg" alt="Terminal Status" style="max-width: 100%; height: auto; margin: 10px 0;">
