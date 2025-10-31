@@ -2,29 +2,15 @@
 <!-- Using inline event handlers where needed for interactive effects -->
 
 <!-- Terminal-style header with ASCII art -->
+<img src="./ascii-header.svg" alt="TheaZora ASCII Art" style="max-width: 100%; height: auto; display: block; margin: 20px 0;">
 
 ### `> System initialized...`  
 ### > Hey, I'm TheaZora 👋🏽
 
 **Creative Technologist | Full-Stack Engineer | Change Management & UX Architect**
 
-<pre>
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║    ████████╗██╗  ██╗███████╗ █████╗ ███████╗ ██████╗  ██████╗  █████╗    ║
-║    ╚══██╔══╝██║  ██║██╔════╝██╔══██╗╚══███╔╝██╔═══██╗ ██╔══██╗██╔══██╗   ║
-║       ██║   ███████║█████╗  ███████║  ███╔╝ ██║   ██║ ██████╔╝███████║   ║
-║       ██║   ██╔══██║██╔══╝  ██╔══██║ ███╔╝  ██║   ██║ ██╔══██╗██╔══██║   ║
-║       ██║   ██║  ██║███████╗██║  ██║███████╗╚██████╔╝ ██║  ██║██║  ██║   ║
-║       ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝ ╚═════╝  ╚═╝  ╚═╝╚═╝  ╚═╝   ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
-</pre>
-
 <!-- Terminal status -->
-<pre style="font-family: 'Courier New', monospace; color: #00ff00; font-size: 14px; margin: 10px 0;">
-█ Ready for commands...
-</pre>
+<img src="./terminal-status.svg" alt="Terminal Status" style="max-width: 100%; height: auto; margin: 10px 0;">
 
 
 ---
@@ -65,9 +51,7 @@ With over a decade of experience in **Change & Configuration Management**, **Ful
 ---
 
 <!-- Terminal divider -->
-<pre style="font-family: 'Courier New', monospace; color: #ff69b4; font-size: 12px; margin: 20px 0;">
-═══════════════════════════════════════════════════════════════════
-</pre>
+<img src="./terminal-divider.svg" alt="Divider" style="max-width: 100%; height: auto; margin: 20px 0;">
 
 ## 🚀 Featured Projects
 
@@ -235,9 +219,7 @@ A card game place holder for the 6th project. Coming soon with innovative gamepl
 ---
 
 <!-- Terminal divider -->
-<pre style="font-family: 'Courier New', monospace; color: #ff69b4; font-size: 12px; margin: 20px 0;">
-═══════════════════════════════════════════════════════════════════
-</pre>
+<img src="./terminal-divider.svg" alt="Divider" style="max-width: 100%; height: auto; margin: 20px 0;">
 
 ## 🧠 Professional Focus
 
@@ -249,9 +231,7 @@ A card game place holder for the 6th project. Coming soon with innovative gamepl
 ---
 
 <!-- Terminal divider -->
-<pre style="font-family: 'Courier New', monospace; color: #ff69b4; font-size: 12px; margin: 20px 0;">
-═══════════════════════════════════════════════════════════════════
-</pre>
+<img src="./terminal-divider.svg" alt="Divider" style="max-width: 100%; height: auto; margin: 20px 0;">
 
 ## ⚙️ My Tech Stacks
 
@@ -306,9 +286,7 @@ A card game place holder for the 6th project. Coming soon with innovative gamepl
 ---
 
 <!-- Terminal divider -->
-<pre style="font-family: 'Courier New', monospace; color: #ff69b4; font-size: 12px; margin: 20px 0;">
-═══════════════════════════════════════════════════════════════════
-</pre>
+<img src="./terminal-divider.svg" alt="Divider" style="max-width: 100%; height: auto; margin: 20px 0;">
 
 ## 💬 Let's Connect
 
