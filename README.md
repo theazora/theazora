@@ -2,6 +2,12 @@
 <!-- Using inline event handlers where needed for interactive effects -->
 
 <!-- Terminal-style header with ASCII art -->
+
+### `> System initialized...`  
+### > Hey, I'm TheaZora 👋🏽
+
+**Creative Technologist | Full-Stack Engineer | Change Management & UX Architect**
+
 <pre>
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║                                                                          ║
@@ -14,15 +20,6 @@
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 </pre>
-
-### `> System initialized...`  
-### > Hey, I'm TheaZora 👋🏽
-
-**Creative Technologist | Full-Stack Engineer | Change Management & UX Architect**
-
-<a href="https://theazora.dev" target="_blank">
-<img src="https://theazora.dev/Horizontal_Logo_TheaZora.svg" alt="TheaZora Logo" style="max-width: 400px; width: 50%; height: auto; display: block; margin: 20px auto; filter: brightness(0) saturate(100%) invert(57%) sepia(99%) saturate(3571%) hue-rotate(305deg) brightness(101%) contrast(101%);" onmouseover="this.style.filter='brightness(0) saturate(100%) invert(57%) sepia(99%) saturate(3571%) hue-rotate(305deg) brightness(1.2) contrast(101%)'" onmouseout="this.style.filter='brightness(0) saturate(100%) invert(57%) sepia(99%) saturate(3571%) hue-rotate(305deg) brightness(101%) contrast(101%)'">
-</a>
 
 <!-- Terminal status -->
 <pre style="font-family: 'Courier New', monospace; color: #00ff00; font-size: 14px; margin: 10px 0;">
