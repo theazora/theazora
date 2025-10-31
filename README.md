@@ -41,7 +41,7 @@
 </a>
 
 <a href="https://github.com/TheaZora" style="text-decoration: none; display: inline-block;" onmouseover="this.style.transform='scale(1.05)'; this.style.filter='drop-shadow(0 0 8px #ff69b4)'" onmouseout="this.style.transform='scale(1)'; this.style.filter='none'">
-<img src="https://github-readme-streak-stats.demolab.com/?user=TheaZora&theme=radical&hide_border=true&background=0d1117&border=ff69b4&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" alt="GitHub Streak" style="border-radius: 8px; border: 2px solid #ff69b4;" />
+<img src="https://streak-stats.demolab.com/?user=TheaZora&theme=radical&hide_border=true&background=0d1117&border=ff69b4&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" alt="GitHub Streak" style="border-radius: 8px; border: 2px solid #ff69b4;" />
 </a>
 
 </div>
