@@ -1,10 +1,4 @@
 <style>
-@keyframes blink {
-  0%, 50% { opacity: 1; }
-  51%, 100% { opacity: 0; }
-}
-
-
 /* Hover effects for badges */
 a img {
   transition: transform 0.3s ease, filter 0.3s ease;
@@ -24,38 +18,20 @@ h3:hover {
   color: #ff69b4;
   text-shadow: 0 0 10px #ff69b4;
 }
-
-/* Terminal cursor animation */
-@keyframes terminal-blink {
-  0%, 50% { opacity: 1; }
-  51%, 100% { opacity: 0.3; }
-}
-
-#ascii-art {
-  font-family: 'Courier New', monospace;
-  font-size: 12px;
-  line-height: 1.2;
-  background: #0d1117;
-  padding: 20px;
-  border-radius: 10px;
-  border: 2px solid #ff69b4;
-  display: block;
-  width: fit-content;
-  margin: 0 0 20px 0;
-  box-shadow: 0 0 15px rgba(255, 105, 180, 0.4), 0 0 30px rgba(255, 105, 180, 0.2);
-}
 </style>
 
-<!-- Rainbow Terminal-style header with ASCII art -->
-<pre id="ascii-art">
-<span style="color: #ff0080;">╔════════════════════════════════════════════════════════════════════════╗</span>
-<span style="color: #ff0080;">║</span>  <span style="color: #ff0080;">████████╗</span><span style="color: #ff4000;">██╗</span>  <span style="color: #ff8000;">██╗</span><span style="color: #ffc000;">███████╗</span> <span style="color: #ffff00;">████╗</span> <span style="color: #c0ff00;">██████╗</span> <span style="color: #80ff00;">█████╗</span>  <span style="color: #40ff00;">█████╗</span>  <span style="color: #00ff00;">█████╗</span>    <span style="color: #ff0080;">║</span>
-<span style="color: #ff0080;">║</span>  <span style="color: #00ff40;">╚══██╔══╝</span><span style="color: #00ff80;">██║</span>  <span style="color: #00ffc0;">██║</span><span style="color: #00ffff;">██╔════╝</span><span style="color: #00c0ff;">██╔══██╗</span><span style="color: #0080ff;">╚══███╔╝</span><span style="color: #0040ff;">██╔═══██╗</span> <span style="color: #0000ff;">██╔══██╗</span><span style="color: #4000ff;">██╔══██╗</span>   <span style="color: #ff0080;">║</span>
-<span style="color: #ff0080;">║</span>     <span style="color: #8000ff;">██║</span>   <span style="color: #c000ff;">███████║</span><span style="color: #ff00ff;">█████╗</span>  <span style="color: #ff00c0;">███████║</span>  <span style="color: #ff0080;">███╔╝</span> <span style="color: #ff4000;">██║</span>   <span style="color: #ff8000;">██║</span> <span style="color: #ffc000;">█████╔╝</span><span style="color: #ffff00;">███████║</span>   <span style="color: #ff0080;">║</span>
-<span style="color: #ff0080;">║</span>     <span style="color: #c0ff00;">██║</span>   <span style="color: #80ff00;">██╔══██║</span><span style="color: #40ff00;">██╔══╝</span>  <span style="color: #00ff00;">██╔══██║</span> <span style="color: #00ff40;">███╔╝</span>  <span style="color: #00ff80;">██║</span>   <span style="color: #00ffc0;">██║</span> <span style="color: #00ffff;">██╔══██╗</span><span style="color: #00c0ff;">██╔══██║</span>   <span style="color: #ff0080;">║</span>
-<span style="color: #ff0080;">║</span>     <span style="color: #0080ff;">██║</span>   <span style="color: #0040ff;">██║</span>  <span style="color: #0000ff;">██║</span><span style="color: #4000ff;">███████╗</span><span style="color: #8000ff;">██║</span>  <span style="color: #c000ff;">██║</span><span style="color: #ff00ff;">███████╗</span><span style="color: #ff00c0;">╚██████╔╝</span> <span style="color: #ff0080;">██║</span>  <span style="color: #ff4000;">██║</span><span style="color: #ff8000;">██║</span>  <span style="color: #ffc000;">██║</span>   <span style="color: #ff0080;">║</span>
-<span style="color: #ff0080;">║</span>     <span style="color: #ffff00;">╚═╝</span>   <span style="color: #c0ff00;">╚═╝</span>  <span style="color: #80ff00;">╚═╝</span><span style="color: #40ff00;">╚══════╝</span><span style="color: #00ff00;">╚═╝</span>  <span style="color: #00ff40;">╚═╝</span><span style="color: #00ff80;">╚══════╝</span> <span style="color: #00ffc0;">╚═════╝</span>  <span style="color: #00ffff;">╚═╝</span>  <span style="color: #00c0ff;">╚═╝</span><span style="color: #0080ff;">╚═╝</span>  <span style="color: #0040ff;">╚═╝</span>   <span style="color: #ff0080;">║</span>
-<span style="color: #ff0080;">╚════════════════════════════════════════════════════════════════════════╝</span>
+<!-- Terminal-style header with ASCII art -->
+<pre style="color: #ff69b4; background: #0d1117; padding: 20px; border-radius: 10px; border: 2px solid #ff69b4; font-family: monospace; font-size: 11px; line-height: 1.2;">
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║    ████████╗██╗  ██╗███████╗ █████╗ ███████╗ ██████╗  ██████╗  █████╗    ║
+║    ╚══██╔══╝██║  ██║██╔════╝██╔══██╗╚══███╔╝██╔═══██╗ ██╔══██╗██╔══██╗   ║
+║       ██║   ███████║█████╗  ███████║  ███╔╝ ██║   ██║ ██████╔╝███████║   ║
+║       ██║   ██╔══██║██╔══╝  ██╔══██║ ███╔╝  ██║   ██║ ██╔══██╗██╔══██║   ║
+║       ██║   ██║  ██║███████╗██║  ██║███████╗╚██████╔╝ ██║  ██║██║  ██║   ║
+║       ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝ ╚═════╝  ╚═╝  ╚═╝╚═╝  ╚═╝   ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 </pre>
 
 ### `> System initialized...`  
@@ -65,9 +41,9 @@ h3:hover {
 
 ![Embedded GIF](https://i.imgur.com/3egP6Cj.gif)
 
-<!-- Animated terminal cursor -->
+<!-- Terminal status -->
 <pre style="font-family: 'Courier New', monospace; color: #00ff00; font-size: 14px; margin: 10px 0;">
-<span style="animation: blink 1s infinite;">█</span> Ready for commands...
+█ Ready for commands...
 </pre>
 
 
