@@ -1,24 +1,5 @@
-<style>
-/* Hover effects for badges */
-a img {
-  transition: transform 0.3s ease, filter 0.3s ease;
-}
-
-a:hover img {
-  transform: scale(1.05);
-  filter: drop-shadow(0 0 8px #ff69b4);
-}
-
-/* Project card hover effects */
-h3 {
-  transition: color 0.3s ease, text-shadow 0.3s ease;
-}
-
-h3:hover {
-  color: #ff69b4;
-  text-shadow: 0 0 10px #ff69b4;
-}
-</style>
+<!-- Note: GitHub doesn't support CSS transitions or :hover pseudo-classes -->
+<!-- Using inline event handlers where needed for interactive effects -->
 
 <!-- Terminal-style header with ASCII art -->
 <pre>
@@ -40,7 +21,7 @@ h3:hover {
 **Creative Technologist | Full-Stack Engineer | Change Management & UX Architect**
 
 <a href="https://theazora.dev" target="_blank">
-<img src="https://theazora.dev/Horizontal_Logo_TheaZora.svg" alt="TheaZora Logo" style="max-width: 100%; height: auto; display: block; margin: 20px auto; filter: hue-rotate(0deg); transition: filter 0.3s ease;" onmouseover="this.style.filter='hue-rotate(330deg) brightness(1.2)'" onmouseout="this.style.filter='hue-rotate(0deg)'">
+<img src="https://theazora.dev/Horizontal_Logo_TheaZora.svg" alt="TheaZora Logo" style="max-width: 100%; height: auto; display: block; margin: 20px auto;" onmouseover="this.style.filter='hue-rotate(330deg) brightness(1.2)'" onmouseout="this.style.filter='none'">
 </a>
 
 <!-- Terminal status -->
@@ -55,11 +36,11 @@ h3:hover {
 
 <div style="display: flex; justify-content: flex-start; gap: 10px; flex-wrap: wrap; align-items: flex-start;">
 
-<a href="https://github.com/TheaZora" style="text-decoration: none; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+<a href="https://github.com/TheaZora" style="text-decoration: none; display: inline-block;" onmouseover="this.style.transform='scale(1.05)'; this.style.filter='drop-shadow(0 0 8px #ff69b4)'" onmouseout="this.style.transform='scale(1)'; this.style.filter='none'">
 <img src="https://github-readme-stats.vercel.app/api?username=TheaZora&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&show_icons=true&count_private=true&include_all_commits=true&border_color=ff69b4" alt="GitHub Stats" style="border-radius: 8px; border: 2px solid #ff69b4;" />
 </a>
 
-<a href="https://github.com/TheaZora" style="text-decoration: none; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+<a href="https://github.com/TheaZora" style="text-decoration: none; display: inline-block;" onmouseover="this.style.transform='scale(1.05)'; this.style.filter='drop-shadow(0 0 8px #ff69b4)'" onmouseout="this.style.transform='scale(1)'; this.style.filter='none'">
 <img src="https://github-readme-streak-stats.demolab.com/?user=TheaZora&theme=radical&hide_border=true&background=0d1117&border=ff69b4&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" alt="GitHub Streak" style="border-radius: 8px; border: 2px solid #ff69b4;" />
 </a>
 
@@ -71,7 +52,7 @@ h3:hover {
 </div>
 
 <!-- Top Languages -->
-<a href="https://github.com/TheaZora" style="text-decoration: none; transition: transform 0.3s ease; display: inline-block;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+<a href="https://github.com/TheaZora" style="text-decoration: none; display: inline-block;" onmouseover="this.style.transform='scale(1.05)'; this.style.filter='drop-shadow(0 0 8px #ff69b4)'" onmouseout="this.style.transform='scale(1)'; this.style.filter='none'">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheaZora&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=ffffff&langs_count=8&border_color=ff69b4" alt="Top Languages" style="border-radius: 8px; border: 2px solid #ff69b4;" />
 </a>
 
@@ -97,7 +78,7 @@ With over a decade of experience in **Change & Configuration Management**, **Ful
 <code>> Loading projects... [████████████████████] 100%</code>
 </div>
 
-<div style="border: 2px solid #ff69b4; border-radius: 10px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(255,105,180,0.1) 0%, rgba(13,17,23,0.9) 100%); transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 0 20px rgba(255,105,180,0.5)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
+<div style="border: 2px solid #ff69b4; border-radius: 10px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(255,105,180,0.1) 0%, rgba(13,17,23,0.9) 100%);" onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 0 20px rgba(255,105,180,0.5)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
 
 ### 🎵 **Jamrize.com**
 
@@ -125,7 +106,7 @@ A central hub for music collaboration across platforms uniting artists, producer
 
 ---
 
-<div style="border: 2px solid #ff69b4; border-radius: 10px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(255,105,180,0.1) 0%, rgba(13,17,23,0.9) 100%); transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 0 20px rgba(255,105,180,0.5)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
+<div style="border: 2px solid #ff69b4; border-radius: 10px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(255,105,180,0.1) 0%, rgba(13,17,23,0.9) 100%);" onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 0 20px rgba(255,105,180,0.5)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
 
 ### 🎹 **PianoNet.io**
 
@@ -154,7 +135,7 @@ A real-time collaborative piano web app that lets multiple users play, record, a
 
 ---
 
-<div style="border: 2px solid #ff69b4; border-radius: 10px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(255,105,180,0.1) 0%, rgba(13,17,23,0.9) 100%); transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 0 20px rgba(255,105,180,0.5)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
+<div style="border: 2px solid #ff69b4; border-radius: 10px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(255,105,180,0.1) 0%, rgba(13,17,23,0.9) 100%);" onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 0 20px rgba(255,105,180,0.5)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
 
 ### 🎤 **OpalVox.space**
 
@@ -180,7 +161,7 @@ A real-time vocal modulation and synthesis environment built for expressive perf
 
 ---
 
-<div style="border: 2px solid #ff69b4; border-radius: 10px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(255,105,180,0.1) 0%, rgba(13,17,23,0.9) 100%); transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 0 20px rgba(255,105,180,0.5)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
+<div style="border: 2px solid #ff69b4; border-radius: 10px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(255,105,180,0.1) 0%, rgba(13,17,23,0.9) 100%);" onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 0 20px rgba(255,105,180,0.5)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
 
 ### 🌐 **Vntro.net**
 
@@ -208,7 +189,7 @@ A futuristic digital ecosystem for creative and technical ventures, blending bra
 
 ---
 
-<div style="border: 2px solid #ff69b4; border-radius: 10px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(255,105,180,0.1) 0%, rgba(13,17,23,0.9) 100%); transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 0 20px rgba(255,105,180,0.5)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
+<div style="border: 2px solid #ff69b4; border-radius: 10px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(255,105,180,0.1) 0%, rgba(13,17,23,0.9) 100%);" onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 0 20px rgba(255,105,180,0.5)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
 
 ### 🔮 **wulfie.dev**
 
@@ -234,7 +215,7 @@ A minimalist experimental sandbox that bridges creative coding, cyber aesthetics
 
 ---
 
-<div style="border: 2px solid #ff69b4; border-radius: 10px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(255,105,180,0.1) 0%, rgba(13,17,23,0.9) 100%); transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 0 20px rgba(255,105,180,0.5)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
+<div style="border: 2px solid #ff69b4; border-radius: 10px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(255,105,180,0.1) 0%, rgba(13,17,23,0.9) 100%);" onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 0 20px rgba(255,105,180,0.5)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
 
 ### 🎴 **SCards**
 
