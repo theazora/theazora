@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 30" width="100%" height="auto">
+    <style>
+        .terminal-text {
+            font-family: 'Courier New', monospace;
+            font-size: 14px;
+            fill: #00ff00;
+        }
+    </style>
+    <text class="terminal-text" x="0" y="20">█ Ready for commands...</text>
+</svg>
+
