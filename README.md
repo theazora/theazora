@@ -5,7 +5,9 @@
 <img src="./ascii-header.svg" alt="TheaZora ASCII Art" style="max-width: 100%; height: auto; display: block; margin: 20px 0;">
 
 # <span> Hey, I'm 
-<a href="https://theazora.dev" target="_blank"><img src="./theazora-wobble.gif" alt="TheaZora Logo" style="width: 120px; height: auto; margin: 0 8px;"></a> 👋🏽</span>
+<a href="https://theazora.dev" target="_blank"><img src="./theazora-wobble.gif" alt="TheaZora Logo" style="width: 120px; height: auto; margin: 0 8px;"></a> 
+👋🏽
+</span>
 
 **Creative Technologist | Full-Stack Engineer | Change Management & UX Architect**
 
