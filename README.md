@@ -1,16 +1,9 @@
-<!-- Note: GitHub doesn't support CSS transitions or :hover pseudo-classes -->
-<!-- Using inline event handlers where needed for interactive effects -->
-
 <!-- Terminal-style header with ASCII art -->
 <img src="./ascii-header.svg" alt="TheaZora ASCII Art" style="max-width: 100%; height: auto; display: block; margin: 20px 0;">
 
-### <span style="color: #00ff00;">`> System initialized...`</span>  
-### > Hey, I'm <a href="https://theazora.dev" target="_blank"><img src="./logo.gif" alt="TheaZora Logo" style="width: 120px; height: auto; vertical-align: middle; display: inline-block; margin: 0 8px;" onmouseover="this.style.transform='scale(1.1)'; this.style.filter='brightness(1.2)'" onmouseout="this.style.transform='scale(1)'; this.style.filter='none'"></a> 👋🏽
+### > Hey, I'm <a href="https://theazora.dev" target="_blank"><img src="./theazora-wobble.gif" alt="TheaZora Logo" style="width: 120px; height: auto; vertical-align: middle; display: inline-block; margin: 0 8px;" onmouseover="this.style.transform='scale(1.1)'; this.style.filter='brightness(1.2)'" onmouseout="this.style.transform='scale(1)'; this.style.filter='none'"></a> 👋🏽
 
 **Creative Technologist | Full-Stack Engineer | Change Management & UX Architect**
-
-<!-- Terminal status -->
-<img src="./terminal-status.svg" alt="Terminal Status" style="max-width: 100%; height: auto; margin: 10px 0;">
 
 
 ---
@@ -50,14 +43,9 @@ With over a decade of experience in **Change & Configuration Management**, **Ful
 
 ---
 
-<!-- Terminal divider -->
-<img src="./terminal-divider.svg" alt="Divider" style="max-width: 100%; height: auto; margin: 20px 0;">
 
 ## 🚀 Featured Projects
 
-<div style="font-family: 'Courier New', monospace; color: #00ff00; margin: 10px 0;">
-<code>> Loading projects... [████████████████████] 100%</code>
-</div>
 
 <div style="border: 2px solid #ff69b4; border-radius: 10px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(255,105,180,0.1) 0%, rgba(13,17,23,0.9) 100%);" onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 0 20px rgba(255,105,180,0.5)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
 
@@ -218,8 +206,6 @@ A card game place holder for the 6th project. Coming soon with innovative gamepl
 
 ---
 
-<!-- Terminal divider -->
-<img src="./terminal-divider.svg" alt="Divider" style="max-width: 100%; height: auto; margin: 20px 0;">
 
 ## 🧠 Professional Focus
 
@@ -230,8 +216,6 @@ A card game place holder for the 6th project. Coming soon with innovative gamepl
 
 ---
 
-<!-- Terminal divider -->
-<img src="./terminal-divider.svg" alt="Divider" style="max-width: 100%; height: auto; margin: 20px 0;">
 
 ## ⚙️ My Tech Stacks
 
@@ -285,8 +269,6 @@ A card game place holder for the 6th project. Coming soon with innovative gamepl
 
 ---
 
-<!-- Terminal divider -->
-<img src="./terminal-divider.svg" alt="Divider" style="max-width: 100%; height: auto; margin: 20px 0;">
 
 ## 💬 Let's Connect
 
@@ -296,12 +278,4 @@ A card game place holder for the 6th project. Coming soon with innovative gamepl
 
 ---
 
-### `> System Status: OPERATIONAL`  
-### `> Session End`
-
 <img src="https://img.shields.io/badge/Made%20with%20%E2%99%A5%EF%B8%8F%20by-TheaZora-ff69b4?style=for-the-badge">
-
-```bash
-# "Code is poetry written in logic"
-# - TheaZora
-```
