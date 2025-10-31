@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 <!-- Terminal-style header with ASCII art -->
 <pre style="font-family: 'Courier New', monospace; font-size: 12px; line-height: 1.2; color: #ff69b4; background: #0d1117; padding: 20px; border-radius: 10px; border: 2px solid #ff69b4;">
