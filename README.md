@@ -1,14 +1,12 @@
-<div align="left">
-
 <!-- Terminal-style header with ASCII art -->
-<pre style="font-family: 'Courier New', monospace; font-size: 12px; line-height: 1.2; color: #ff69b4; background: #0d1117; padding: 20px; border-radius: 10px; border: 2px solid #ff69b4;">
+<pre id="ascii-art" style="font-family: 'Courier New', monospace; font-size: 12px; line-height: 1.2; color: #ff69b4; background: #0d1117; padding: 20px; border-radius: 10px; border: 2px solid #ff69b4; display: inline-block; animation: asciiGlow 3s ease-in-out infinite;">
 ╔════════════════════════════════════════════════════════════════════════╗
 ║  ████████╗██╗  ██╗███████╗ █████╗ ███████╗ ██████╗  ██████╗  █████╗    ║
 ║  ╚══██╔══╝██║  ██║██╔════╝██╔══██╗╚══███╔╝██╔═══██╗ ██╔══██╗██╔══██╗   ║
 ║     ██║   ███████║█████╗  ███████║  ███╔╝ ██║   ██║ ██████╔╝███████║   ║
 ║     ██║   ██╔══██║██╔══╝  ██╔══██║ ███╔╝  ██║   ██║ ██╔══██╗██╔══██║   ║
 ║     ██║   ██║  ██║███████╗██║  ██║███████╗╚██████╔╝ ██║  ██║██║  ██║   ║
-║     ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝ ╚═════╝  ╚═╝  ╚═╝╚═╝  ╚═╝   ║                                      ║
+║     ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝ ╚═════╝  ╚═╝  ╚═╝╚═╝  ╚═╝   ║
 ╚════════════════════════════════════════════════════════════════════════╝
 </pre>
 
@@ -20,7 +18,7 @@
 ![Embedded GIF](https://i.imgur.com/3egP6Cj.gif)
 
 <!-- Animated terminal cursor -->
-<pre style="font-family: 'Courier New', monospace; color: #00ff00; font-size: 14px; margin: 10px;">
+<pre style="font-family: 'Courier New', monospace; color: #00ff00; font-size: 14px; margin: 10px 0;">
 <span style="animation: blink 1s infinite;">█</span> Ready for commands...
 </pre>
 
@@ -28,6 +26,18 @@
 @keyframes blink {
   0%, 50% { opacity: 1; }
   51%, 100% { opacity: 0; }
+}
+
+/* ASCII Art Animation - Subtle glow pulse */
+@keyframes asciiGlow {
+  0%, 100% { 
+    box-shadow: 0 0 10px rgba(255, 105, 180, 0.3), 0 0 20px rgba(255, 105, 180, 0.1);
+    border-color: #ff69b4;
+  }
+  50% { 
+    box-shadow: 0 0 20px rgba(255, 105, 180, 0.6), 0 0 40px rgba(255, 105, 180, 0.3);
+    border-color: #ff69b4;
+  }
 }
 
 /* Hover effects for badges */
@@ -41,11 +51,11 @@ a:hover img {
 }
 
 /* Project card hover effects */
-div[align="center"] h3 {
+h3 {
   transition: color 0.3s ease, text-shadow 0.3s ease;
 }
 
-div[align="center"] h3:hover {
+h3:hover {
   color: #ff69b4;
   text-shadow: 0 0 10px #ff69b4;
 }
@@ -59,12 +69,9 @@ div[align="center"] h3:hover {
 
 ---
 
-<!-- GitHub Stats Section -->
-<div align="center">
-  
-### 📊 **GitHub Activity**
+## 📊 **GitHub Activity**
 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; align-items: center;">
+<div style="display: flex; justify-content: flex-start; gap: 10px; flex-wrap: wrap; align-items: flex-start;">
 
 <a href="https://github.com/TheaZora" style="text-decoration: none; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
 <img src="https://github-readme-stats.vercel.app/api?username=TheaZora&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&show_icons=true&count_private=true&include_all_commits=true&border_color=ff69b4" alt="GitHub Stats" style="border-radius: 8px; border: 2px solid #ff69b4;" />
@@ -86,11 +93,7 @@ div[align="center"] h3:hover {
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheaZora&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=ffffff&langs_count=8&border_color=ff69b4" alt="Top Languages" style="border-radius: 8px; border: 2px solid #ff69b4;" />
 </a>
 
-</div>
-
 ---
-
-</div>
 
 ## 🌐 About Me
 
@@ -102,19 +105,15 @@ With over a decade of experience in **Change & Configuration Management**, **Ful
 ---
 
 <!-- Terminal divider -->
-<div align="center">
 <pre style="font-family: 'Courier New', monospace; color: #ff69b4; font-size: 12px; margin: 20px 0;">
 ═══════════════════════════════════════════════════════════════════
 </pre>
-</div>
 
 ## 🚀 Featured Projects
 
 <div style="font-family: 'Courier New', monospace; color: #00ff00; margin: 10px 0;">
 <code>> Loading projects... [████████████████████] 100%</code>
 </div>
-
-<div align="center">
 
 <div style="border: 2px solid #ff69b4; border-radius: 10px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(255,105,180,0.1) 0%, rgba(13,17,23,0.9) 100%); transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 0 20px rgba(255,105,180,0.5)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
 
@@ -273,16 +272,12 @@ A card game place holder for the 6th project. Coming soon with innovative gamepl
 
 </div>
 
-</div>
-
 ---
 
 <!-- Terminal divider -->
-<div align="center">
 <pre style="font-family: 'Courier New', monospace; color: #ff69b4; font-size: 12px; margin: 20px 0;">
 ═══════════════════════════════════════════════════════════════════
 </pre>
-</div>
 
 ## 🧠 Professional Focus
 
@@ -294,11 +289,9 @@ A card game place holder for the 6th project. Coming soon with innovative gamepl
 ---
 
 <!-- Terminal divider -->
-<div align="center">
 <pre style="font-family: 'Courier New', monospace; color: #ff69b4; font-size: 12px; margin: 20px 0;">
 ═══════════════════════════════════════════════════════════════════
 </pre>
-</div>
 
 ## ⚙️ My Tech Stacks
 
@@ -353,34 +346,24 @@ A card game place holder for the 6th project. Coming soon with innovative gamepl
 ---
 
 <!-- Terminal divider -->
-<div align="center">
 <pre style="font-family: 'Courier New', monospace; color: #ff69b4; font-size: 12px; margin: 20px 0;">
 ═══════════════════════════════════════════════════════════════════
 </pre>
-</div>
 
 ## 💬 Let's Connect
-
-<div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-@lawulf-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/lawulf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@tbalzora-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tbalzora/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-theazora.dev-ff69b4?style=for-the-badge&logo=vercel&logoColor=white)](https://theazora.dev)
 
-</div>
-
 ---
-
-<div align="center">
 
 ### `> System Status: OPERATIONAL`  
 ### `> Session End`
 
 <img src="https://img.shields.io/badge/Made%20with%20%E2%99%A5%EF%B8%8F%20by-TheaZora-ff69b4?style=for-the-badge">
 
-**```bash
+```bash
 # "Code is poetry written in logic"
 # - TheaZora
-```**
-
-</div>
+```
