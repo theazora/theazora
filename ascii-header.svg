@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 180" preserveAspectRatio="xMidYMid meet" width="100%" height="auto">
+    <style>
+        .ascii-line {
+            font-family: 'Courier New', monospace;
+            font-size: 10px;
+            white-space: pre;
+            filter: drop-shadow(0 0 3px currentColor);
+        }
+        .line-1 { fill: #ffb3d9; }  /* Pastel pink */
+        .line-2 { fill: #ffb3d9; }  /* Pastel pink */
+        .line-3 { fill: #ffc0a8; }  /* Pastel coral */
+        .line-4 { fill: #ffd4a8; }  /* Pastel peach */
+        .line-5 { fill: #ffe8a8; }  /* Pastel yellow */
+        .line-6 { fill: #f5ffa8; }  /* Pastel lime */
+        .line-7 { fill: #d9ffa8; }  /* Pastel mint green */
+        .line-8 { fill: #b3ffd9; }  /* Pastel mint */
+        .line-9 { fill: #a8f5ff; }  /* Pastel sky blue */
+        .line-10 { fill: #a8d9ff; } /* Pastel blue */
+        .line-11 { fill: #b3b3ff; } /* Pastel periwinkle */
+        .line-12 { fill: #c0a8ff; } /* Pastel lavender */
+        .line-13 { fill: #d4a8ff; } /* Pastel purple */
+        .line-14 { fill: #e8a8ff; } /* Pastel magenta */
+        .line-15 { fill: #ffa8f5; } /* Pastel pink-purple */
+        .line-16 { fill: #ffa8e8; } /* Pastel rose */
+        .line-17 { fill: #ffb3d9; } /* Pastel pink */
+        .line-18 { fill: #ffb3d9; } /* Pastel pink */
+        .line-19 { fill: #ffb3d9; } /* Pastel pink */
+        .line-20 { fill: #ffb3d9; } /* Pastel pink */
+    </style>
+    <text class="ascii-line line-1" x="20" y="20">╔══════════════════════════════════════════════════════════════════════════╗</text>
+    <text class="ascii-line line-2" x="20" y="35">║                                                                          ║</text>
+    <text class="ascii-line line-3" x="20" y="50">║    ████████╗██╗  ██╗███████╗ █████╗ ███████╗ ██████╗  ██████╗  █████╗    ║</text>
+    <text class="ascii-line line-4" x="20" y="65">║    ╚══██╔══╝██║  ██║██╔════╝██╔══██╗╚══███╔╝██╔═══██╗ ██╔══██╗██╔══██╗   ║</text>
+    <text class="ascii-line line-5" x="20" y="80">║       ██║   ███████║█████╗  ███████║  ███╔╝ ██║   ██║ ██████╔╝███████║   ║</text>
+    <text class="ascii-line line-6" x="20" y="95">║       ██║   ██╔══██║██╔══╝  ██╔══██║ ███╔╝  ██║   ██║ ██╔══██╗██╔══██║   ║</text>
+    <text class="ascii-line line-7" x="20" y="110">║       ██║   ██║  ██║███████╗██║  ██║███████╗╚██████╔╝ ██║  ██║██║  ██║   ║</text>
+    <text class="ascii-line line-8" x="20" y="125">║       ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝ ╚═════╝  ╚═╝  ╚═╝╚═╝  ╚═╝   ║</text>
+    <text class="ascii-line line-9" x="20" y="140">║                                                                          ║</text>
+    <text class="ascii-line line-10" x="20" y="155">╚══════════════════════════════════════════════════════════════════════════╝</text>
+</svg>
