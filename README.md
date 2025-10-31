@@ -21,7 +21,7 @@ h3:hover {
 </style>
 
 <!-- Terminal-style header with ASCII art -->
-<pre style="color: #ff69b4; background: #0d1117; padding: 20px; border-radius: 10px; border: 2px solid #ff69b4; font-family: monospace; font-size: 11px; line-height: 1.2;">
+<pre style="color: #ff69b4; background: #0d1117; padding: 20px; border-radius: 10px; border: 2px solid #ff69b4; font-family: monospace; font-size: clamp(8px, 2vw, 11px); line-height: 1.2; max-width: 100%; overflow-x: auto; white-space: pre;">
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║                                                                          ║
 ║    ████████╗██╗  ██╗███████╗ █████╗ ███████╗ ██████╗  ██████╗  █████╗    ║
@@ -39,7 +39,7 @@ h3:hover {
 
 **Creative Technologist | Full-Stack Engineer | Change Management & UX Architect**
 
-![Embedded GIF](https://i.imgur.com/3egP6Cj.gif)
+<img src="https://theazora.dev/Horizontal_Logo_TheaZora.svg" alt="TheaZora Logo" style="max-width: 100%; height: auto; display: block; margin: 20px auto;">
 
 <!-- Terminal status -->
 <pre style="font-family: 'Courier New', monospace; color: #00ff00; font-size: 14px; margin: 10px 0;">
