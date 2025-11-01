@@ -6,32 +6,6 @@
 <img src="./ascii-header.svg" alt="TheaZora ASCII Art" style="max-width: 100%; height: auto; display: block; margin: 20px 0;">
 ---
 
-## 📊 **GitHub Activity**
-
-<div style="display: flex; justify-content: flex-start; gap: 10px; flex-wrap: wrap; align-items: flex-start;">
-
-<a href="https://github.com/TheaZora" style="text-decoration: none; display: inline-block;">
-<img src="https://github-readme-stats.vercel.app/api?username=TheaZora&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&show_icons=true&count_private=true&include_all_commits=true&border_color=ff69b4" alt="GitHub Stats" style="border-radius: 8px; border: 2px solid #ff69b4;" />
-</a>
-
-<a href="https://github.com/TheaZora" style="text-decoration: none; display: inline-block;">
-<img src="https://streak-stats.demolab.com/?user=TheaZora&theme=radical&hide_border=true&background=0d1117&border=ff69b4&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" alt="GitHub Streak" style="border-radius: 8px; border: 2px solid #ff69b4;" />
-</a>
-
-</div>
-
-<!-- Activity Graph -->
-<div style="margin: 20px 0;">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheaZora&theme=radical&hide_border=true&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&area=true&border_color=ff69b4" alt="GitHub Activity Graph" style="border-radius: 8px; border: 2px solid #ff69b4; max-width: 100%;" />
-</div>
-
-<!-- Top Languages -->
-<a href="https://github.com/TheaZora" style="text-decoration: none; display: inline-block;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheaZora&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=ffffff&langs_count=8&border_color=ff69b4" alt="Top Languages" style="border-radius: 8px; border: 2px solid #ff69b4;" />
-</a>
-
----
-
 ## 🌐 About Me
 
 I'm **Thea Zora**, a multidisciplinary designer and engineer blending **technology, art, and systems thinking**.  
@@ -213,7 +187,31 @@ A card game place holder for the 6th project. Coming soon with innovative gamepl
 - **Enterprise Platform Development:** ServiceNow, Node.js microservices, and cloud automation.
 
 ---
+## 📊 **GitHub Activity**
 
+<div style="display: flex; justify-content: flex-start; gap: 10px; flex-wrap: wrap; align-items: flex-start;">
+
+<a href="https://github.com/TheaZora" style="text-decoration: none; display: inline-block;">
+<img src="https://github-readme-stats.vercel.app/api?username=TheaZora&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&show_icons=true&count_private=true&include_all_commits=true&border_color=ff69b4" alt="GitHub Stats" style="border-radius: 8px; border: 2px solid #ff69b4;" />
+</a>
+
+<a href="https://github.com/TheaZora" style="text-decoration: none; display: inline-block;">
+<img src="https://streak-stats.demolab.com/?user=TheaZora&theme=radical&hide_border=true&background=0d1117&border=ff69b4&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" alt="GitHub Streak" style="border-radius: 8px; border: 2px solid #ff69b4;" />
+</a>
+
+</div>
+
+<!-- Activity Graph -->
+<div style="margin: 20px 0;">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheaZora&theme=radical&hide_border=true&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&area=true&border_color=ff69b4" alt="GitHub Activity Graph" style="border-radius: 8px; border: 2px solid #ff69b4; max-width: 100%;" />
+</div>
+
+<!-- Top Languages -->
+<a href="https://github.com/TheaZora" style="text-decoration: none; display: inline-block;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheaZora&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=ffffff&langs_count=8&border_color=ff69b4" alt="Top Languages" style="border-radius: 8px; border: 2px solid #ff69b4;" />
+</a>
+
+---
 
 ## ⚙️ My Tech Stacks
 
