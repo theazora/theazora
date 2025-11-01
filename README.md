@@ -3,7 +3,7 @@
 
 **Creative Technologist | Full-Stack Engineer | Change Management & UX Architect**
 <!-- Terminal-style header with ASCII art -->
-<img src="./ascii-header.svg" alt="TheaZora ASCII Art" style="max-width: 100%; height: auto; display: block; margin: 20px 0;">
+<img src="./ascii-header.svg" alt="TheaZora ASCII Art" style="max-width: 50%; height: auto; display: block; margin: 20px 0;">
 
 ## 🌐 About Me
 
