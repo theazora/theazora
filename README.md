@@ -15,11 +15,11 @@
 
 <div style="display: flex; justify-content: flex-start; gap: 10px; flex-wrap: wrap; align-items: flex-start;">
 
-<a href="https://github.com/TheaZora" style="text-decoration: none; display: inline-block;" onmouseover="this.style.transform='scale(1.05)'; this.style.filter='drop-shadow(0 0 8px #ff69b4)'" onmouseout="this.style.transform='scale(1)'; this.style.filter='none'">
+<a href="https://github.com/TheaZora" style="text-decoration: none; display: inline-block;">
 <img src="https://github-readme-stats.vercel.app/api?username=TheaZora&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&show_icons=true&count_private=true&include_all_commits=true&border_color=ff69b4" alt="GitHub Stats" style="border-radius: 8px; border: 2px solid #ff69b4;" />
 </a>
 
-<a href="https://github.com/TheaZora" style="text-decoration: none; display: inline-block;" onmouseover="this.style.transform='scale(1.05)'; this.style.filter='drop-shadow(0 0 8px #ff69b4)'" onmouseout="this.style.transform='scale(1)'; this.style.filter='none'">
+<a href="https://github.com/TheaZora" style="text-decoration: none; display: inline-block;">
 <img src="https://streak-stats.demolab.com/?user=TheaZora&theme=radical&hide_border=true&background=0d1117&border=ff69b4&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" alt="GitHub Streak" style="border-radius: 8px; border: 2px solid #ff69b4;" />
 </a>
 
@@ -31,7 +31,7 @@
 </div>
 
 <!-- Top Languages -->
-<a href="https://github.com/TheaZora" style="text-decoration: none; display: inline-block;" onmouseover="this.style.transform='scale(1.05)'; this.style.filter='drop-shadow(0 0 8px #ff69b4)'" onmouseout="this.style.transform='scale(1)'; this.style.filter='none'">
+<a href="https://github.com/TheaZora" style="text-decoration: none; display: inline-block;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheaZora&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=ffffff&langs_count=8&border_color=ff69b4" alt="Top Languages" style="border-radius: 8px; border: 2px solid #ff69b4;" />
 </a>
 
