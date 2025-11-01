@@ -4,7 +4,6 @@
 **Creative Technologist | Full-Stack Engineer | Change Management & UX Architect**
 <!-- Terminal-style header with ASCII art -->
 <img src="./ascii-header.svg" alt="TheaZora ASCII Art" style="max-width: 100%; height: auto; display: block; margin: 20px 0;">
----
 
 ## 🌐 About Me
 
@@ -13,7 +12,6 @@ With over a decade of experience in **Change & Configuration Management**, **Ful
 
 🕸️ Explore my portfolio: **[theazora.dev](https://theazora.dev)**
 
----
 
 
 ## 🚀 Featured Projects
