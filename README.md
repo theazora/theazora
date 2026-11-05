@@ -187,19 +187,24 @@ A card game place holder for the 6th project. Coming soon with innovative gamepl
 ---
 ## 📊 **GitHub Activity**
 
-<div style="display: flex; justify-content: flex-start; gap: 10px; flex-wrap: wrap; align-items: flex-start;">
 
-<a href="https://github.com/TheaZora" style="text-decoration: none; display: inline-block;">
-<img src="https://github-readme-stats.vercel.app/api?username=TheaZora&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&show_icons=true&count_private=true&include_all_commits=true&border_color=ff69b4" alt="GitHub Stats" style="border-radius: 8px; border: 2px solid #ff69b4;" />
-</a>
+<!-- Activity Graph -->
+<div align="center">
 
-<a href="https://github.com/TheaZora" style="text-decoration: none; display: inline-block;">
-<img src="https://streak-stats.demolab.com/?user=TheaZora&theme=radical&hide_border=true&background=0d1117&border=ff69b4&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" alt="GitHub Streak" style="border-radius: 8px; border: 2px solid #ff69b4;" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=TheaZora&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&hide_border=true" height="180" alt="GitHub Stats" />
+
+<img src="https://streak-stats.demolab.com/?user=TheaZora&theme=radical&hide_border=true&background=0d1117&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" height="180" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheaZora&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheaZora&layout=compact&theme=radical&bg_color=0d1117&title_color=ff69b4&hide_border=true" height="150" alt="Top Languages" />
 
 </div>
 
-<!-- Activity Graph -->
 
 <div align="left">
 
