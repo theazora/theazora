@@ -196,9 +196,6 @@ A card game place holder for the 6th project. Coming soon with innovative gamepl
   </a>
 </p>
 
-<p>
-  <img src="./profile/activity.svg" width="100%" alt="GitHub Activity Calendar and Coding Habits" />
-</p>
 
 
 ---
