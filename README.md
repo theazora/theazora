@@ -190,8 +190,6 @@ A card game place holder for the 6th project. Coming soon with innovative gamepl
 
 <!-- Activity Graph -->
 
-<h2 align="center">📊 GitHub Activity</h2>
-
 <p align="center">
   <a href="https://github.com/TheaZora">
     <img src="./profile/stats.svg" height="180" alt="GitHub Statistics" />
