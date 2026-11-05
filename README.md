@@ -190,16 +190,13 @@ A card game place holder for the 6th project. Coming soon with innovative gamepl
 
 <!-- Activity Graph -->
 
-<p align="center">
+<p>
   <a href="https://github.com/TheaZora">
     <img src="./profile/stats.svg" height="180" alt="GitHub Statistics" />
   </a>
-  <a href="https://github.com/TheaZora">
-    <img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
-  </a>
 </p>
 
-<p align="center">
+<p>
   <img src="./profile/activity.svg" width="100%" alt="GitHub Activity Calendar and Coding Habits" />
 </p>
 
