@@ -200,9 +200,7 @@ A card game place holder for the 6th project. Coming soon with innovative gamepl
 </div>
 
 <!-- Activity Graph -->
-<div style="margin: 20px 0;">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheaZora&theme=radical&hide_border=true&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&area=true&border_color=ff69b4" alt="GitHub Activity Graph" style="border-radius: 8px; border: 2px solid #ff69b4; max-width: 100%;" />
-</div>
+
 
 <!-- Top Languages -->
 <a href="https://github.com/TheaZora" style="text-decoration: none; display: inline-block;">
