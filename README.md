@@ -201,6 +201,24 @@ A card game place holder for the 6th project. Coming soon with innovative gamepl
 
 <!-- Activity Graph -->
 
+<div align="left">
+
+<a href="https://github.com/TheaZora">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TheaZora&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</a>
+
+<a href="https://github.com/TheaZora">
+  <img height="180" src="https://streak-stats.demolab.com/?user=TheaZora&theme=radical&hide_border=true&background=0d1117&border=ff69b4&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" alt="GitHub Streak" />
+</a>
+
+<br/>
+
+<a href="https://github.com/TheaZora">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TheaZora&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</a>
+
+</div>
+
 
 <!-- Top Languages -->
 <a href="https://github.com/TheaZora" style="text-decoration: none; display: inline-block;">
